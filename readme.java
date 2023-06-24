@@ -5,7 +5,7 @@ class readme{
         int b = 5;
         System.out.println(a+b);  
 
-        int c = 3;
+        int c = 32;
         //// comment was added 
     }
 }
