@@ -1,7 +1,7 @@
 class readme{
     public static void main(String args[]) 
     {
-        int a = 1;
+        int a = 15;
         int b = 5;
         System.out.println(a+b);  
 
