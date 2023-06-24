@@ -3,6 +3,6 @@ class a{
     {
         int a = 200;
         int b = 2;
-        System.out.println(a+b);  
+        System.out.println(a * b);  
     }
 }
